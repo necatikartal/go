@@ -96,12 +96,17 @@ Out of personal preference and need for focus, I geared the original curriculum 
 _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencemasters/go/blob/master/specializations.md#web-scraping--crawling)_
 
 * **Machine Learning**
+
+ _Foundational & Theoretical_
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
+ * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
+
+ _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
- * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn)^ & [Book ```$80```](http://amzn.to/1hmyKry)
- * Machine Learning for Hackers - Python port [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
+ * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
+ * Intro to scikit-learn, SciPy2013 [youtube tutorials](bit.ly/scikit-video-tuts)
 
 * **Statistical Network Analysis & Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
@@ -120,14 +125,25 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Big Data Analysis with Twitter [UC Berkeley / Lectures](http://bit.ly/cal-course-bigdatatwitter)
  * Exploratory Data Analysis [Tukey / Book ```$81```](http://amzn.to/1kNUEPa)
 
+### Data Design
+
 * **Visualization**
+
+ _Foundational Information Design Books_
+
  * Envisioning Information [Tufte / Book ```$36```](http://amzn.to/Sn0QI4)
  * The Visual Display of Quantitative Information [Tufte / Book ```$27```](http://amzn.to/1q5FB91)
- * Data Visualization, CS 171 [Harvard / Lectures](http://bit.ly/harvard-dataviz)
- * Data Visualization, CSE512 [University of Washington / Slides](http://bit.ly/uw-dataviz)
- * Scott Murray's Tutorial on D3 [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
- * Berkely's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
- * Rice University's Data Viz class [Rice University](http://bit.ly/riceu-viz)
+
+ _Theoretical Courses / Design & Visualization_
+
+ * Data Visualization [University of Washington / Slides & Resources](http://bit.ly/uw-dataviz)
+ * Berkeley's Viz Class [UC Berkeley / Course Docs](http://bit.ly/cal-viz)
+ * Rice University's Data Viz class [Rice University / Slides](http://bit.ly/riceu-viz)
+
+ _Practical Visualization Resources_
+
+ * D3 Library / Scott Murray [Blog / Tutorials](http://bit.ly/tut-scottmurray-d3)
+ * Interactive Data Visualization for the Web / Scott Murray [Online Book](bit.ly/interactive-data-viz-web) & [Book `$26`](http://amzn.to/1oK1xCN)
 
 _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/go/blob/master/specializations.md#data-journalism)_
 
@@ -200,7 +216,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 ***
 
 ### Notation
-Paid books, courses, and resources are noted with ```$```.
+Non-Open-Source books, courses, and resources are noted with ```$```.
 
 ## Contribute
 
