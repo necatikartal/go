@@ -1,5 +1,7 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
+Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+
 ## The Open-Source Data Science Masters
 
 The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
@@ -75,6 +77,9 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Problem-Solving Heuristics "How To Solve It" [Polya / Book ```$10```](http://amzn.to/1mqJRSi)
 
 ### Computing
+
+Get your environment up and running with the [Data Science Toolbox](http://datasciencetoolbox.org)
+
 * **Algorithms**
  * Algorithms Design & Analysis I [Stanford / Coursera](http://bit.ly/coursera-algo)
  * Algorithm Design, Kleinberg & Tardos [Book ```$125```](http://amzn.to/1iMnWm5)
@@ -84,12 +89,12 @@ Out of personal preference and need for focus, I geared the original curriculum 
  * Intro to Hadoop and MapReduce [Cloudera / Udacity Course](http://bit.ly/udacity-hadoopmapreduce) *includes select free excerpts of Hadoop: The Definitive Guide [Book ```$29```](http://amzn.to/1i7wgLv)
 
 * **Databases**
- * Introduction to Databases [Stanford / Online Course](http://bit.ly/stanford-introdatabases)
+ * Introduction to Databases [Stanford / Online Course](https://bit.ly/introdatabases)
  * SQL School [Mode Analytics / Tutorials](http://sqlschool.modeanalytics.com/)
  * SQL Tutorials [SQLZOO / Tutorials](http://bit.ly/tut-sqlzoo)
 
 * **Data Mining**
- * Mining Massive Data Sets [Stanford / Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
+ * Mining Massive Data Sets / Stanford [Coursera](https://www.coursera.org/course/mmds) & [Digital](http://bit.ly/ebook-miningmassivedata) & [Book ```$58```](http://amzn.to/1txocpo)
  * Mining The Social Web [Book ```$30```](http://amzn.to/1mqxAsB)
  * Introduction to Information Retrieval / Stanford [Digital](http://bit.ly/ebook-stanford-inforetrieval) & [Book ```$56```](http://amzn.to/1mWbnUT)
 
@@ -100,24 +105,28 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  _Foundational & Theoretical_
  * Machine Learning [Ng Stanford / Coursera](http://bit.ly/stanford-ml)
  * A Course in Machine Learning [UMD / Digital Book](http://ciml.info/)
- * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry)
+ * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
 
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://nbviewer.ipython.org/github/carljv/Will_it_Python/blob/master/MLFH/CH1/chapter1.ipynb)
- * Intro to scikit-learn, SciPy2013 [youtube tutorials](bit.ly/scikit-video-tuts)
+ * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
 
-* **Statistical Network Analysis & Modeling**
+* **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
  * Probabalistic Graphical Models [Stanford / Coursera](http://bit.ly/stanford-pgm)
+
+* **Deep Learning (Neural Networks)**
+ * Neural Networks [Andrej Karpathy / Python Walkthrough](http://karpathy.github.io/neuralnets/)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
 
-* **Network & Graph Analysis**
+* **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
  * Social Network Analysis for Startups [Book ```$22```](http://amzn.to/1jySCCT)
 
 * **Natural Language Processing**
+ * From Languages to Information / Stanford CS147 [Materials](http://web.stanford.edu/class/cs124/)
  * NLP with Python (NLTK library) [Digital](http://bit.ly/ebook-nltk), [Book ```$36```](http://amzn.to/1iMrDIp)
 
 * **Analysis**
@@ -180,6 +189,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
    * [twython](http://bit.ly/py-twython) - Python wrapper for the Twitter API 
 
  * **Visualization Packages**
+   * [matplotlib](http://www.ast.uct.ac.za/~sarblyth/pythonGuide/PythonPlottingBeginnersGuide.pdf) - well-integrated with analysis and data manipulation packages like numpy and pandas
    * [Orange](http://bit.ly/software-orangeviz) - Open source data visualization and analysis for novice and experts. Data mining through visual programming or Python scripting. Components for machine learning. Add-ons for bioinformatics and text mining
 
 * **iPython Data Science Notebooks**
@@ -210,6 +220,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 * The Signal and The Noise - Nate Silver [Pop-Sci Data Analysis ```$15```](http://amzn.to/1hoxQoG)
 * [Zipfian Academy's List of Resources](http://bit.ly/1qoF1We)
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
+* Josh Wills - The Life of a Data Scientist / [Video](https://www.youtube.com/watch?v=h9vQIPfe2uU)
 * Data Scientist Interviews [Metamarkets](http://bit.ly/1r1tJot)
 * /r/MachineLearning [Reddit](http://bit.ly/1uANaEM)
 

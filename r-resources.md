@@ -4,6 +4,8 @@ _[Note: The core of The Open Source Data Science Masters focuses on programmatic
 
 [The R Project for Statistical Computing / Software](http://www.r-project.org/)
 
+[Learn Data Science with R / Tutorials](https://www.datacamp.com/courses)
+
 #### Basic R
 
  * R in a Nutshell [O'Reilly / Book ```$41```](http://amzn.to/1s54OBf)
