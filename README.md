@@ -1,6 +1,8 @@
 [Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
 
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs)
+
+Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
 
 ## The Open-Source Data Science Masters
 
@@ -165,7 +167,9 @@ _OSDSM Specialization: [Data Journalism](https://github.com/datasciencemasters/g
 #### **Python** (Libraries)
 Installing Basic Packages [Python, virtualenv, NumPy, SciPy, matplotlib and IPython ](http://bit.ly/scientific-py-install) & [Using Python Scientifically](http://bit.ly/lecture-scipy)
 
-_More Libraries can be found in related [specialiaztions](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
+ * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) (data structure library)
+
+_More Libraries can be found in related [specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)_
 
  * **Data Structures & Analysis Packages**
    * Flexible and powerful data analysis / manipulation library with labeled data structures objects, statistical functions, etc [pandas](http://bit.ly/py-pandas) & Tutorials [Python for Data Analysis / Book](http://amzn.to/Q2pI5I)
@@ -207,6 +211,7 @@ _More Libraries can be found in related [specialiaztions](https://github.com/dat
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
 * Healthcare Twitter Analysis [Coursolve & UW Data Science](http://bit.ly/project-healthcare-twitter-analysis)
+* Analyze your LinkedIn Network [Generate & Download Adjacency Matrix](http://socilab.com/)
 
 ***
 ### Resources
